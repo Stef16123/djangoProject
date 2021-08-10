@@ -50,3 +50,12 @@ python3 manage.py runserver
 
 7. Для завершения анонимного запроса следует указать в body ` "isAnon": "True" `
 8. Для получения пройденных пользователем опросов с детализацией следует перейти по url ` api/v1/completed_polls/get_user_history `
+
+Скриншоты:
+-------------------------
+![Image alt](https://github.com/Stef16123/DjangoProject/raw/master/polls.png)
+![Image alt](https://github.com/Stef16123/DjangoProject/raw/master/admin.png)
+![Image alt](https://github.com/Stef16123/DjangoProject/raw/master/complete_poll2.png)
+![Image alt](https://github.com/Stef16123/DjangoProject/raw/master/get_active_polls.png)
+![Image alt](https://github.com/Stef16123/DjangoProject/raw/master/get_user_history.png)
+![Image alt](https://github.com/Stef16123/DjangoProject/raw/master/questions.png)
