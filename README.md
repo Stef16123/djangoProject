@@ -4,7 +4,8 @@
 -------------------------
 * Создайте Postgres базу данных и подключите её в settings.py
 * Пример:
-``` DATABASES = {
+``` 
+DATABASES = {
 'default': {
 'ENGINE': 'django.db.backends.postgresql_psycopg2',
 'NAME': 'test_django',
